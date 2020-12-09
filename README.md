@@ -1,6 +1,6 @@
 # Elasticsearch 5.x for MacOS
 
-Elasticsearch is written in Java so you need to install JDK version> = 8 before installing Elasticsearch. Installation instructions can be found here: https://www.java.com/en/download/
+Elasticsearch is written in Java so you need to install JDK version >= 8 before installing Elasticsearch. Installation instructions can be found here: https://www.java.com/en/download/
 
 Make sure you have Homebrew installed on your operating system. Installation instructions can be found here: https://brew.sh/
 
