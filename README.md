@@ -48,5 +48,10 @@ Where ```url``` is the path of the .tar.gz file.
 Elasticseach releases can be found here: https://www.elastic.co/downloads/past-releases#elasticsearch
 
 
+## Test
 
-# Good luck!
+Run the following command for information about the state of Elasticsearch:
+
+```
+$ curl 127.0.0.1:9200
+```
